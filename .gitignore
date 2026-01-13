@@ -9,3 +9,10 @@ prn
 aux
 com1
 lpt1
+# Build / Reports / Local outputs
+backend/out/
+frontend/test-results/
+frontend/playwright-report/
+**/*.log
+.env
+.env.*
