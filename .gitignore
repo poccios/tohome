@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+*.log
+# Windows reserved names
+nul
+NUL
+con
+prn
+aux
+com1
+lpt1

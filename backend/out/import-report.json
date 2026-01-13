@@ -1,0 +1,107 @@
+{
+  "timestamp": "2026-01-11T14:34:33.136Z",
+  "summary": {
+    "total": 20,
+    "created": 11,
+    "skipped": 9,
+    "failed": 0
+  },
+  "details": {
+    "created": [
+      {
+        "name": "Tipiko Ristorante Pizzeria",
+        "slug": "tipiko-ristorante-pizzeria",
+        "id": null
+      },
+      {
+        "name": "Micky Beach",
+        "slug": "micky-beach",
+        "id": null
+      },
+      {
+        "name": "Hotel Delle Canne",
+        "slug": "hotel-delle-canne",
+        "id": null
+      },
+      {
+        "name": "Canossa city",
+        "slug": "canossa-city",
+        "id": null
+      },
+      {
+        "name": "Osteria di Potame - Amantea",
+        "slug": "osteria-di-potame-amantea",
+        "id": null
+      },
+      {
+        "name": "Due Bicchieri Gourmet Pizzeria",
+        "slug": "due-bicchieri-gourmet-pizzeria",
+        "id": null
+      },
+      {
+        "name": "Ristorante Lido Azzurro Amantea",
+        "slug": "ristorante-lido-azzurro-amantea",
+        "id": null
+      },
+      {
+        "name": "Dal Tingi - Bar, trattoria, pizzeria",
+        "slug": "dal-tingi-bar-trattoria-pizzeria",
+        "id": null
+      },
+      {
+        "name": "Ristorante Pizzeria A Modo Mio",
+        "slug": "ristorante-pizzeria-a-modo-mio",
+        "id": null
+      },
+      {
+        "name": "DA MAURIZIO - Pizzeria / Ristorante",
+        "slug": "da-maurizio-pizzeria-ristorante",
+        "id": null
+      },
+      {
+        "name": "Ristorante Pizzeria Bouganville",
+        "slug": "ristorante-pizzeria-bouganville",
+        "id": null
+      }
+    ],
+    "skipped": [
+      {
+        "name": "Park Hotel Tyrrenian",
+        "reason": "duplicate"
+      },
+      {
+        "name": "Mediterraneo Palace Hotel",
+        "reason": "duplicate"
+      },
+      {
+        "name": "Ristorante Il Sombrero S.r.l.",
+        "reason": "duplicate"
+      },
+      {
+        "name": "Caracas Bistro 25 | Cucina Latinoamericana",
+        "reason": "duplicate"
+      },
+      {
+        "name": "Agriturismo Bio il Mandorlo",
+        "reason": "duplicate"
+      },
+      {
+        "name": "L'800 - Locanda a palazzo",
+        "reason": "duplicate"
+      },
+      {
+        "name": "Pizzeria Trattoria Retrogusto",
+        "reason": "duplicate"
+      },
+      {
+        "name": "Ristorante Pizzeria 007 di Francesco Gugliuzzi (stazione)",
+        "reason": "duplicate"
+      },
+      {
+        "name": "L'angolo Del Buongustaio",
+        "reason": "duplicate"
+      }
+    ],
+    "failed": []
+  }
+}
